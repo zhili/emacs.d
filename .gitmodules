@@ -7,6 +7,8 @@
 [submodule "vendor/emacs-smartchr"]
 	path = vendor/emacs-smartchr
 	url = https://github.com/k1LoW/emacs-smartchr.git
+        ignore = untracked
 [submodule "vendor/yasnippet"]
 	path = vendor/yasnippet
 	url = https://github.com/emacsmirror/yasnippet.git
+        ignore = untracked
