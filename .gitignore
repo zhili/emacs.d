@@ -1,0 +1,6 @@
+*.elc
+*.dat
+.DS_Store
+auto-save-list
+history
+backup/
