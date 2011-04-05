@@ -4,9 +4,3 @@
 [submodule "vendor/auto-complete"]
 	path = vendor/auto-complete
 	url = https://github.com/m2ym/auto-complete.git
-[submodule "vendor/emacs-smartchr"]
-	path = vendor/emacs-smartchr
-	url = https://github.com/k1LoW/emacs-smartchr.git
-[submodule "vendor/yasnippet"]
-	path = vendor/yasnippet
-	url = https://github.com/emacsmirror/yasnippet.git
