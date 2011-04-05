@@ -7,7 +7,7 @@
 ;; name can be be a bit different, which would screw up autoconnect
 (erc-autojoin-mode t)
 (setq erc-autojoin-channels-alist
-  '((".*\\.freenode.net" "#emacs" "#git" "#ubuntu-cn" "#go-nuts" "#webkit" "#chromium")))
+  '((".*\\.freenode.net" "#emacs" "#git" "#ubuntu" "#go-nuts" "#webkit" "#chromium" "#python")))
 ;; check channels
 (erc-track-mode t)
 (setq erc-track-exclude-types '("JOIN" "NICK" "PART" "QUIT" "MODE"

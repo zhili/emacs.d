@@ -11,7 +11,7 @@
 (transient-mark-mode 1)
 
 ;;no tool bar
-;;(tool-bar-mode -1)
+(tool-bar-mode -1)
 
 ;;no scroll bar
 (scroll-bar-mode nil)
