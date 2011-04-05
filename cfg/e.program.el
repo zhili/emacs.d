@@ -86,8 +86,8 @@
 
 
 ;; slime.
-(add-to-list 'load-path "/opt/local/share/emacs/slime")     ; tell emacs where slime is
-(require 'slime)
+;;(add-to-list 'load-path "/opt/local/share/emacs/slime")     ; tell emacs where slime is
+;;(require 'slime)
 ;; sbcl
-(setq inferior-lisp-program "/opt/local/bin/sbcl")
-(slime-setup '(slime-fancy))
+;;(setq inferior-lisp-program "/opt/local/bin/sbcl")
+;;(slime-setup '(slime-fancy))
