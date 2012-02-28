@@ -52,3 +52,5 @@
 
 ;;(twitter-user-name-face ((t (:bold t :foreground "white"  :background "blue"))))
 ;;(twitter-time-stamp-face ((t (:bold nil :foreground "white" :background "blue"))))
+(setq browse-url-browser-function 'browse-url-generic
+      browse-url-generic-program "google-chrome")

@@ -10,5 +10,4 @@
         ignore = untracked
 [submodule "vendor/yasnippet"]
 	path = vendor/yasnippet
-	url = https://github.com/emacsmirror/yasnippet.git
-        ignore = untracked
+	url = https://github.com/capitaomorte/yasnippet.git

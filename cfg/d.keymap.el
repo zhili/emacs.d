@@ -3,8 +3,8 @@
 (global-unset-key "\C-z")
 (global-unset-key "\C-o")
 
-(global-set-key [mouse-4] 'scroll-up)
-(global-set-key [mouse-5] 'scroll-down)
+;;(global-set-key [mouse-4] 'scroll-up)
+;;(global-set-key [mouse-5] 'scroll-down)
 (global-set-key [f1] 'cvs-examine)
 (global-set-key [C-f4] 'kill-this-buffer)
 (global-set-key [M-f4] 'save-buffers-kill-emacs)

@@ -76,7 +76,7 @@
 ;; http://jaguilar.posterous.com/i-get-so-tired-of-searching-fo
 ;; TextMate Monokai theme
 (custom-set-faces
- '(default ((t (:stipple nil :background "#272822" :foreground "#F8F8F2" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 120 :width normal :family "monaco"))))
+ '(default ((t (:stipple nil :background "#272822" :foreground "#F8F8F2" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 98 :width normal :family "Monospace"))))
  '(cursor ((t (:background "#F8F8F2" :foreground "#272822"))))
  '(font-lock-comment-face ((((class color) (min-colors 88) (background dark)) (:foreground "#75715E"))))
  '(font-lock-function-name-face ((((class color) (min-colors 88) (background dark)) (:foreground "#A6E22E"))))
@@ -87,4 +87,4 @@
  '(font-lock-variable-name-face ((((class color) (min-colors 88) (background dark)) (:foreground "#FD971F"))))
  '(region ((((class color) (min-colors 88) (background dark)) (:background "#49483E"))))
  '(show-paren-match ((((class color) (background dark)) (:background "#3E3D32"))))
- '(variable-pitch ((t (:family "Monaco")))))
+ '(variable-pitch ((t (:family "Monospace")))))
